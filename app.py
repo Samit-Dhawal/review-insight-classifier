@@ -10,7 +10,7 @@ import time
 
 # Setting custom title for the browser tab
 st.set_page_config(
-    page_title="Review Classifier | Samit",
+    page_title="ReviewInsight Classifier | Samit",
     page_icon="⭐",
     layout="wide",
 )
@@ -91,7 +91,7 @@ def main():
                 font-size: 16px;
             }
         </style>
-        <div class="sidebar-title"> ReviewInsight Classifier </div>
+        <div class="sidebar-title"> Hotel Reviews Classifier</div>
         <br/>
         <div class="sidebar-header">It is a web-app built using Streamlit for Sentiment Analysis on Hotel Reviews and to Extract the Elements that are influencing more in forming positive review and improves hotel brand image.</div>
         <br/>
