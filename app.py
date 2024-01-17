@@ -84,7 +84,7 @@ def main():
         <style>
             .sidebar-title {
                 font-family: 'Trebuchet MS', sans-serif;
-                font-size: 30px;
+                font-size: 25px;
             }
             .sidebar-header {
                 font-family: 'Trebuchet MS', sans-serif;
